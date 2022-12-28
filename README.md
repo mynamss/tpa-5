@@ -1,4 +1,4 @@
-# TPA-5 : WEb Server & Restful API
+# TPA 5 Project : Web Server & Restful API
 
 Ini adalah repository yang berisi tentang webserver dan restful API To Do List yang sudah dibuat.
 Endpoints utama dari web ini adalah : http://localhost:3000/ dan dibgian "routes" ada endpoint dari masing masing perintah CRUD ToDo List.
